@@ -1,3 +1,5 @@
+let counter = 0;
+
 function alertUser() {
   if (counter < 8) {
     const container = document.querySelector('.right ul')
